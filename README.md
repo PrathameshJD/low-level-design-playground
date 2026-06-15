@@ -13,6 +13,6 @@ This repository contains my implementations and notes for:
 
 - [x] SRP
 - [x] OCP
-- [ ] LSP
+- [x] LSP
 - [ ] ISP
 - [ ] DIP
