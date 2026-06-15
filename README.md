@@ -11,7 +11,7 @@ This repository contains my implementations and notes for:
 
 ### SOLID Principles
 
-- [ ] SRP
+- [x] SRP
 - [ ] OCP
 - [ ] LSP
 - [ ] ISP
