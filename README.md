@@ -15,4 +15,4 @@ This repository contains my implementations and notes for:
 - [x] OCP
 - [x] LSP
 - [x] ISP
-- [ ] DIP
+- [x] DIP
