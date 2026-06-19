@@ -82,10 +82,9 @@ Each pattern folder typically contains:
 - Strategy Pattern
 
 ### In Progress:
--
+- Factory Pattern
 
 ### Upcoming:
-- Factory Pattern
 - Builder Pattern
 - Singleton Pattern
 
