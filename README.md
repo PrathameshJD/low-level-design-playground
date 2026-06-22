@@ -28,3 +28,5 @@ This repository contains my implementations and notes for:
 
 #### Creational Patterns
 - [x] Factory Pattern (Simple Factory, Factory Method, Abstract Factory)
+- [x] Singleton Pattern
+
