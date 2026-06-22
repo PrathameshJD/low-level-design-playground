@@ -80,13 +80,14 @@ Each pattern folder typically contains:
 
 ### Completed:
 - Strategy Pattern
+- Factory Pattern
+- Singleton Pattern
 
 ### In Progress:
-- Factory Pattern
+-
 
 ### Upcoming:
 - Builder Pattern
-- Singleton Pattern
 
 ---
 
