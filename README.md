@@ -25,6 +25,7 @@ This repository contains my implementations and notes for:
 
 #### Behavioral Patterns
 - [x] Strategy Pattern
+- [x] Observer Pattern
 
 #### Creational Patterns
 - [x] Factory Pattern (Simple Factory, Factory Method, Abstract Factory)
