@@ -31,3 +31,6 @@ This repository contains my implementations and notes for:
 - [x] Factory Pattern (Simple Factory, Factory Method, Abstract Factory)
 - [x] Singleton Pattern
 
+#### Structural Patterns
+- [x] Decorator Pattern
+

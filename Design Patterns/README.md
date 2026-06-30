@@ -83,10 +83,11 @@ Each pattern folder typically contains:
 - Factory Pattern
 - Singleton Pattern
 - Observer Pattern
+- Decorator Pattern
 
 
 ### Upcoming:
-- Builder Pattern
+- Command Pattern
 
 ---
 
